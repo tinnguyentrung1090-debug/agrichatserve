@@ -4599,11 +4599,11 @@ const Ro = {
   chatSessionKey: "sessionId",
   defaultLanguage: "en",
   showWelcomeScreen: !1,
-  initialMessages: ["Xin chào! 👋", "Tôi có tể hỗ trợ gì cho anh/chị?"],
+  initialMessages: ["Xin chào!👋", "Tôi có thể hỗ trợ gì cho anh/chị?"],
   i18n: {
     en: {
-      title: "Agribak Phù Mỹ👋",
-      subtitle: "Chatbot hỗ trợ 24/7.",
+      title: "Agribank Phù Mỹ👋",
+      subtitle: "Chatbot hỗ trợ 24/7",
       footer: "",
       getStarted: "New Conversation",
       inputPlaceholder: "Type your question..",
@@ -27845,3 +27845,4 @@ function Qye(e) {
 export {
   Qye as createChat
 };
+
